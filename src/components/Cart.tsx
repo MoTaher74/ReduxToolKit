@@ -1,15 +1,8 @@
-interface IProps{
-
-
+const Cart = () => {
+    return  (
+       <>
+       </>
+    )    
 }
 
-const Cart =({}:IProps)=>{
-return (
-    <>
-
-    </>
-
-)
-}
-
-export default Cart ;
+export default Cart
